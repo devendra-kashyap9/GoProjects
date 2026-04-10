@@ -1,9 +1,11 @@
-# This is the Go Tutorial for Beginner to Intermediate level of Learning.
+# About Go
+Go (or Golang) is a statically typed, compiled language designed by Google.
+It is known for:
+⚡ High performance
+🔄 Concurrency (Goroutines & Channels)
+🧩 Simplicity and readability
+☁️ Great for backend & cloud systems
 
-```package main
-
-import (
-    fmt
-)
+```Go
 fmt.Println("Hello.Go!!")
 ```
