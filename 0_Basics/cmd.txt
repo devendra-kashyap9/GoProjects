@@ -1,0 +1,5 @@
+go build Hello.go
+(base) MacBookPro:GoProjects spy$ go run Hello.go
+Hello, World!
+(base) MacBookPro:GoProjects spy$ ./Hello
+Hello, World!
